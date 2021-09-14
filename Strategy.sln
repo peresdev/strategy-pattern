@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{EFBF432D-2E64-443C-8EC4-F8D30AC3540F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBF432D-2E64-443C-8EC4-F8D30AC3540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBF432D-2E64-443C-8EC4-F8D30AC3540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBF432D-2E64-443C-8EC4-F8D30AC3540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBF432D-2E64-443C-8EC4-F8D30AC3540F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
